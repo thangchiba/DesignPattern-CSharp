@@ -1,0 +1,15 @@
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.exe
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.deps.json
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.runtimeconfig.json
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.dll
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.pdb
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.AssemblyReference.cache
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfo.cs
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.dll
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\obj\Debug\net6.0\refint\ObserverPattern.dll
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.pdb
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.genruntimeconfig.cache
+C:\Workspace\CSharp\DesignPattern-CSharp\ObserverPattern\ObserverPattern\obj\Debug\net6.0\ref\ObserverPattern.dll
