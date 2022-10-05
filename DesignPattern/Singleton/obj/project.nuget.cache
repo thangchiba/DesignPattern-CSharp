@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4sMNhy6nQ/WzVXBN2vcYB8b78o5okXnySvLG5i8hXvFI9TTtmAi6JPU696r18Xjo/IK/nEmxhO7SB9akgbnHQQ==",
+  "dgSpecHash": "Ojva6GF21hX9amaWr8/BSJfN4v5sFjikfkOei1aOJSs95kSR7FakM+lKcpkeub8NU/j/pStGaX580DlLxyLbGg==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\CSharp\\DesignPattern-CSharp\\DesignPattern\\Singleton\\Singleton.csproj",
+  "projectFilePath": "/Users/hoangthang/Desktop/WorkSpace/C#/DesignPattern/DesignPattern/Singleton/Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{72938B1D-3397-4D0E-90E8-9585CE103DC0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractFactory/ConcreteFactory2.cs">
+﻿<Properties StartupConfiguration="{FD568596-42DC-403C-9AC4-0C78F31FAB71}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Singleton/Singleton.cs">
     <Files>
-      <File FileName="AbstractFactory/ConcreteFactory1.cs" Line="1" Column="1" />
-      <File FileName="AbstractFactory/Client.cs" Line="3" Column="2" />
-      <File FileName="AbstractFactory/ConcreteFactory2.cs" Line="1" Column="1" />
+      <File FileName="Singleton/Singleton.cs" Line="34" Column="1" />
+      <File FileName="Singleton/Program.cs" Line="21" Column="47" />
+      <File FileName="Singleton/Player.cs" Line="18" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,6 +11,10 @@
           <Node name="DesignPattern" expanded="True">
             <Node name="Creational Pattern" expanded="True">
               <Node name="AbstractFactory" expanded="True" />
+              <Node name="FactoryMethod" expanded="True" />
+              <Node name="Singleton" expanded="True">
+                <Node name="Singleton.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="Structural Pattern" expanded="True" />
           </Node>
@@ -22,9 +26,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Creational_220Pattern.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Creational_220Pattern.BuilderPattern FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Creational_220Pattern.FactoryMethod PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Structural_220Pattern.ObserverPattern PreferredExecutionTarget="MonoDevelop.Default" />
