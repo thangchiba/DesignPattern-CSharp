@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bom5ZTUbyPZRak8rFsgI7j0ZQAoYGqPLWm/DozXp56j6WBHKQ9iOeBeg+Wntr7S5PyoBFdjqPEUSe4t131nQUg==",
+  "dgSpecHash": "C4p1HBBr877+S6puGg21UfAqSYDrfPvT7RbOt6x1h4EGmcA/c9g8nrUR1ZOLwSme5u7yHqzTqwhzDG52hFweWg==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\CSharp\\DesignPattern-CSharp\\DesignPattern\\FactoryMethod\\FactoryMethod.csproj",
+  "projectFilePath": "/Users/hoangthang/Desktop/WorkSpace/C#/DesignPattern/DesignPattern/FactoryMethod/FactoryMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

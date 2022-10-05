@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mKCoZprDnqH+iI0xuDGAnrqwYs1y2rq/9HAH71ShLa+chKYDmPdWh7zqA4z9Dsu269h0UMFkNaNBfwL2uPTngg==",
+  "dgSpecHash": "Ynm6YUmHrsenZZJbc5t3M4Wqhw90byKndpFC/z/imHOeVtRAugtOEbGPKKW+aplTlp/d0r3Ycsmhb5yE8wmUSQ==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\CSharp\\DesignPattern-CSharp\\DesignPattern\\ObserverPattern\\ObserverPattern.csproj",
+  "projectFilePath": "/Users/hoangthang/Desktop/WorkSpace/C#/DesignPattern/DesignPattern/ObserverPattern/ObserverPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

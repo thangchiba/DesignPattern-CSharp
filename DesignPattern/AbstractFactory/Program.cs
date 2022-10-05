@@ -1,12 +1,21 @@
-﻿
-namespace ThangChiba.DesignPattern
+﻿namespace AbstractFactoryPractice
 {
-
-    class Program
+    public class AbstractFactory
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            new Client().Main();
+            //When player login. Create a babyskeleton as minion.
+            ClientMethod(new PlayerLoginFactory());
+
+            Console.WriteLine("*****************");
+
+            //When player login. Create a boss as minion.
+            ClientMethod(new PlayerChangeSceneFactory());
+        }
+        public static void ClientMethod(IAbstractFactory factory)
+        {
+            factory.CreatePlayer().ShowName();
+            factory.CreateMinion().ShowName();
         }
     }
 }

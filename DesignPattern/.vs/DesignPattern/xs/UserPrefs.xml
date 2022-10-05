@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{72938B1D-3397-4D0E-90E8-9585CE103DC0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractFactory/ConcreteFactory2.cs">
+    <Files>
+      <File FileName="AbstractFactory/ConcreteFactory1.cs" Line="1" Column="1" />
+      <File FileName="AbstractFactory/Client.cs" Line="3" Column="2" />
+      <File FileName="AbstractFactory/ConcreteFactory2.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignPattern" expanded="True">
+            <Node name="Creational Pattern" expanded="True">
+              <Node name="AbstractFactory" expanded="True" />
+            </Node>
+            <Node name="Structural Pattern" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Creational_220Pattern.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Creational_220Pattern.FactoryMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Structural_220Pattern.ObserverPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Creational_220Pattern.AbstractFactory PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
