@@ -1,0 +1,15 @@
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\obj\Debug\net6.0\FactoryMethodExam.csproj.AssemblyReference.cache
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\obj\Debug\net6.0\FactoryMethodExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\obj\Debug\net6.0\FactoryMethodExam.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\obj\Debug\net6.0\FactoryMethodExam.AssemblyInfo.cs
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\obj\Debug\net6.0\FactoryMethodExam.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\bin\Debug\net6.0\FactoryMethodExam.exe
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\bin\Debug\net6.0\FactoryMethodExam.deps.json
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\bin\Debug\net6.0\FactoryMethodExam.runtimeconfig.json
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\bin\Debug\net6.0\FactoryMethodExam.dll
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\bin\Debug\net6.0\FactoryMethodExam.pdb
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\obj\Debug\net6.0\FactoryMethodExam.dll
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\obj\Debug\net6.0\refint\FactoryMethodExam.dll
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\obj\Debug\net6.0\FactoryMethodExam.pdb
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\obj\Debug\net6.0\FactoryMethodExam.genruntimeconfig.cache
+C:\Workspace\CSharp\DesignPattern-CSharp\DesignPattern\FactoryMethodExam\obj\Debug\net6.0\ref\FactoryMethodExam.dll
