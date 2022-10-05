@@ -8,14 +8,26 @@ namespace TestCSharp
 {
     public sealed class Singleton
     {
-        private static Lazy<int> count = new Lazy<int>(() => 0);
-        public static int Count
-        {
-            get { return count.Value; }
-            set { count = new Lazy<int>(() => value); }
-        }
+        private static readonly object lockCount = new object();
+        public static int bientam = 0;
 
-        private static Lazy<Player> mainPlayer = new Lazy<Player>(()=> new Player("123","Thang"));
+        private static int count { get; set; } = 0;
+
+        private static Lazy<Player> mainPlayer = new Lazy<Player>(() => new Player(123, "Thang"));
         public static Lazy<Player> MainPlayer { get => mainPlayer; set => mainPlayer = value; }
+
+        public static Player player = new Player(0,"Thang");
+
+        public static int GetCount()
+        {
+            return count;
+        }
+        public static void IncreaseCount()
+        {
+            lock (lockCount)
+            {
+                count++;
+            }
+        }
     }
 }
