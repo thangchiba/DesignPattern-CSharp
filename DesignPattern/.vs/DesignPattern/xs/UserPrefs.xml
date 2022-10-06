@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{475E43AA-7B69-441E-902E-46FA13492258}|Default">
+﻿<Properties StartupConfiguration="{BBC1E296-255E-4763-B838-0284E544D264}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Singleton/Singleton.cs">
     <Files>
       <File FileName="Singleton/Singleton.cs" Line="34" Column="1" />
@@ -31,8 +31,9 @@
   <MonoDevelop.Ide.ItemProperties.Creational_220Pattern.FactoryMethod PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Structural_220Pattern.ObserverPattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Creational_220Pattern.PrototypePattern FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Creational_220Pattern.PrototypePattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Creational_220Pattern.AbstractFactory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Structural_220Pattern.AdapterPattern FirstBuild="True" />
 </Properties>
